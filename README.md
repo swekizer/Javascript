@@ -2,6 +2,8 @@
 
 Welcome to the **JavaScript Tutorial Repository**! This repository contains the code and projects created while following a JavaScript tutorial.
 
+Tutorial: Chai aur Code Youtube channel (51 videos Javascript playlist)
+
 ## Repository Structure
 
 The repository is organized into folders, each representing a specific topic or lesson covered in the tutorial:
@@ -16,18 +18,12 @@ The repository is organized into folders, each representing a specific topic or 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/swekizer/Javascript.git
    ```
-
+   
 2. Navigate to a folder of interest:
-   ```bash
-   cd basics
-   ```
-
+  
 3. Open the code in your preferred editor (e.g., VS Code):
-   ```bash
-   code .
-   ```
 
 4. Run the JavaScript code in your browser or a Node.js environment as required.
 
