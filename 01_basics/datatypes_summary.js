@@ -43,4 +43,32 @@ console.log(typeof hero)
 
 //hello
 
+// ******************Stack and Heap****************** //
+
+// Stack:
+// - Primitive types are stored in the stack
+
+// Heap:
+// - Reference types are stored in the heap
+
+// Stack:
+// - Stores function calls
+// - Stores variables
+// - Stores reference to functions
+// - Stores reference to variables
+
+// Heap:
+// - Stores objects
+// - Stores arrays
+// - Stores functions
+
+
+let name1 = "swekit"
+
+let name2 = name1
+name1 = "rudra"
+
+console.log(name1)
+console.log(name2)
+
 
