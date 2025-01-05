@@ -88,3 +88,38 @@ console.log(tinderUser.hasOwnProperty('isLogged'));
 
 
 
+//De Structure
+const course = {
+    coursename : "js in hindi",
+    price : "999",
+    courseInstructor: "Hitesh"
+}
+
+//course.courseInstructor
+
+
+const {courseInstructor} = course
+// or
+const {courseInstructor: Instructor} = course
+
+console.log(courseInstructor);
+console.log(Instructor);
+
+
+//API
+
+//JSON
+/*{
+    "name": "Swekit",
+    "coursename": "js in hindi",
+    "price": "free"
+}
+*/
+
+//Array
+[
+    {},
+    {},
+    {}
+]
+
